@@ -1,3 +1,4 @@
 - do research
+- read book
 - do required analysis
 - do implementation
